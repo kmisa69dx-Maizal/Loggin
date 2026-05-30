@@ -5,7 +5,7 @@
 package main;
 import modelo.Usuario;
 import vista.Logg;
-import controlador.Logg_Ctrl;
+import controlador.Logg_Ctrl; //ssssss.
 
 /**
  *
